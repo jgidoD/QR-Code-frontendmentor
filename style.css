@@ -27,6 +27,7 @@ body {
   background-color: #fff;
   width: 18em;
   border-radius: 16px;
+  box-shadow: 0px 0px 30px 0 rgb(188, 188, 188);
 }
 .qrCodeContainer {
   height: 50%;
